@@ -2,7 +2,7 @@
 
 <h2 align="center"> Hello! I'm <a href="https://github.com/Douglas4739">Douglas Ede</a> 👋 </h2>
 
-<h3 align="center"> I'm a UX/UI Engineer who loves to take a look at a problem and come up with interesting solutions.</h3>
+<h3 align="center"> I'm a Software Engineer who loves to take a look at a problem and come up with interesting solutions.</h3>
 
 <div align="center">
 <li>🌱 I’m currently working on bolstering my React skills with libraries such as Gatsby and Redux</li>
