@@ -6,7 +6,7 @@
 
 <div align="center">
 <li>🌱 I’m currently working on bolstering my React skills with libraries such as Gatsby and Redux</li>
-<li>🥅 <b>What I'm Working On:</b> My Profile Website</li>
+<li>🥅 <b>What I'm Working On:</b> an app showing the value of my daughter's portfolio</li>
 </div>
 
 <div align="center">
